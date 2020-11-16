@@ -1,1 +1,1 @@
-### Contains solutions to Computer Networks assignments
+### Contains solutions to various Computer Networks assignments
